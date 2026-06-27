@@ -48,7 +48,7 @@
     <string name="user_nm_b1_key_2"></string>
     <string name="pref_R_hue_2">0.0</string>
     <string name="c_c_m_quality_key_2">3</string>
-    <string name="c_c_m_quality_key_3">0</string>
+    <string name="c_c_m_quality_key_3">3</string>
     <string name="manual_focus_near_key_2">0.833</string>
     <string name="manual_focus_near_key_1">0.833</string>
     <string name="manual_focus_near_key_3">0.833</string>
@@ -117,18 +117,18 @@
     <string name="pref_camera_kepler_enabled_key">0</string>
     <string name="hex_editor_libs_key"></string>
     <string name="merge_key_2">1</string>
-    <string name="merge_key_1">0</string>
+    <string name="merge_key_1">1</string>
     <string name="pref_audio_zoom_key">0</string>
-    <string name="merge_key_3">0</string>
+    <string name="merge_key_3">1</string>
     <boolean name="camera.lenstoggles_enable" value="true" />
     <string name="pref_zoom_in_command_string">19</string>
     <string name="pref_has_checked_dual_ev_brightness">0</string>
-    <string name="pref_camera_dynamic_depth_enabled_key">0</string>
+    <string name="pref_camera_dynamic_depth_enabled_key">1</string>
     <string name="pref_has_shown_longp_education">0</string>
     <string name="pref_camera_picturesize_front_key">2304x1728</string>
     <string name="pref_camera_grid_lines_mode">1</string>
     <string name="c_c_a_m_quality_key_2">3</string>
-    <string name="c_c_a_m_quality_key_3">0</string>
+    <string name="c_c_a_m_quality_key_3">3</string>
     <long name="tooltip_latest_impression_timestamp_for_cinematic_pan_edu" value="1757844283582" />
     <string name="c_c_a_m_quality_key_1">3</string>
     <string name="pref_imax_audio_enabled_key">0</string>
@@ -242,16 +242,16 @@
     <string name="gawb_user_bg_c_key_2">0.340845</string>
     <string name="gawb_user_bg_c_key_1">0.340845</string>
     <string name="gawb_user_rg_m_key_1">0.478985</string>
-    <string name="shasta_key_3">0</string>
+    <string name="shasta_key_3">1</string>
     <string name="pref_shutter_command_string">66</string>
     <string name="pref_global_hue_2">0.0</string>
     <string name="pref_global_hue_1">0.0</string>
-    <string name="shasta_key_1">0</string>
+    <string name="shasta_key_1">1</string>
     <string name="pref_has_checked_gouda_mode">1</string>
-    <string name="shasta_key_2">0</string>
-    <string name="n_r_m_quality_key_2">3</string>
-    <string name="n_r_m_quality_key_3">3</string>
-    <string name="n_r_m_quality_key_1">3</string>
+    <string name="shasta_key_2">1</string>
+    <string name="n_r_m_quality_key_2">2</string>
+    <string name="n_r_m_quality_key_3">2</string>
+    <string name="n_r_m_quality_key_1">2</string>
     <string name="pref_global_hue_3">0.0</string>
     <long name="tooltip_latest_impression_timestamp_for_shutter_speed_feature_bottom_sheet_edu" value="1751665071599" />
     <string name="gawb_user_bg_g_key_1">0.556984</string>
@@ -266,7 +266,7 @@
     <string name="cvp_audio_bit_rate_key_2">192000</string>
     <string name="cvp_audio_bit_rate_key_3">192000</string>
     <string name="user_nm_b2_key_2"></string>
-    <string name="ChromaScale_fmov_3f80_0000_pthcr_key_2">1.0</string>
+    <string name="ChromaScale_fmov_3f80_0000_pthcr_key_2">1.05</string>
     <string name="pref_camera_picturesize_back_key">4096x3072</string>
     <string name="gawb_user_rg_h_key_3">0.645941</string>
     <string name="pref_social_app_org_telegram_messenger">0</string>
@@ -287,7 +287,7 @@
     <string name="gawb_user_rg_o_key_3">0.645941</string>
     <string name="gawb_user_rg_o_key_2">0.645941</string>
     <string name="pref_double_tap_launch_edu_count">2</string>
-    <string name="LumaOffset_fmov_3f80_0000_pthcr_key_2">1.0</string>
+    <string name="LumaOffset_fmov_3f80_0000_pthcr_key_2">0.75</string>
     <string name="pref_camera_catcher_logo_shot_edu_count_key">5</string>
     <string name="device_key">bluejay</string>
     <string name="ses_tl_id_key_2"></string>
@@ -363,11 +363,11 @@
     <string name="manual_focus_far_key_1">0.3</string>
     <string name="manual_focus_far_key_2">0.3</string>
     <string name="manual_focus_far_key_3">0.3</string>
-    <string name="s_m_quality_key_3">3</string>
-    <string name="s_m_quality_key_2">3</string>
-    <string name="s_m_quality_key_1">3</string>
+    <string name="s_m_quality_key_3">2</string>
+    <string name="s_m_quality_key_2">2</string>
+    <string name="s_m_quality_key_1">2</string>
     <string name="delay_focus_key_3">6</string>
-    <string name="device_hdrplus_key_3">bluejay</string>
+    <string name="device_hdrplus_key_3">panther</string>
     <string name="device_hdrplus_key_2">panther</string>
     <string name="device_hdrplus_key_1">panther</string>
     <string name="pref_camera_gawb_b_photo">0</string>
@@ -387,9 +387,9 @@
     <string name="google_id_key_3"></string>
     <string name="cvp_video_frame_rate_key_1">60</string>
     <string name="cvp_video_frame_rate_key_2">60</string>
-    <string name="pref_satCCT_3">1.0</string>
-    <string name="pref_satCCT_1">1.0</string>
-    <string name="pref_satCCT_2">1.0</string>
+    <string name="pref_satCCT_3">1.2</string>
+    <string name="pref_satCCT_1">1.2</string>
+    <string name="pref_satCCT_2">1.2</string>
     <string name="cvp_audio_codec_key_2">3</string>
     <string name="cvp_audio_codec_key_3">3</string>
     <string name="cvp_audio_codec_key_1">3</string>
